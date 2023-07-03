@@ -36,6 +36,10 @@ This ensures that your transactions are processed and included in new blocks qui
 
 2] npx hardhat run --network <network-name> scripts/deploy.js
 
+hardhat.config.js
+
+require("@nomiclabs/hardhat-waffle"); include this 
+
 
 
 
